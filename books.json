@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "1984",
+    "author": "George Orwell",
+    "available": true,
+    "pages": 267,
+    "isbn": 9780547249643
+  },
+  {
+    "id": 2,
+    "title": "er",
+    "author": "fsf",
+    "pages": "567",
+    "available": "true",
+    "isbn": "53456436"
+  },
+  {
+    "id": 3,
+    "title": "fg",
+    "author": "gdf",
+    "pages": "fg",
+    "available": "true",
+    "isbn": "865"
+  }
+]
